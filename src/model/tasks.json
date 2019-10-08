@@ -1,0 +1,38 @@
+[
+    { 
+        "id": "1",
+        "info": "Create Backlog Items for the planning",
+        "status": "Completed",
+        "owner": "P.O."
+    },
+    { 
+        "id": "2",
+        "info": "Schedule planning meeting",
+        "status": "Completed",
+        "owner": "Scrum Master"
+    },
+    { 
+        "id": "3",
+        "info": "Implement Backlog Item 1",
+        "status": "Completed",
+        "owner": "Developer"
+    },
+    { 
+        "id": "4",
+        "info": "Implement Backlog Item 2",
+        "status": "In progress",
+        "owner": "Developer"
+    },
+    { 
+        "id": "5",
+        "info": "Implement Backlog Item 2",
+        "status": "To do",
+        "owner": "Developer"
+    },
+    { 
+        "id": "6",
+        "info": "Schedule review meeting",
+        "status": "To do",
+        "owner": "Scrum Master"
+    }
+]
